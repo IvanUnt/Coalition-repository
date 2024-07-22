@@ -1,0 +1,7 @@
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\bin\Debug\Расчет площади фигур.exe.config
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\bin\Debug\Расчет площади фигур.exe
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\bin\Debug\Расчет площади фигур.pdb
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.csproj.AssemblyReference.cache
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.csproj.CoreCompileInputs.cache
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.exe
+C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.pdb
