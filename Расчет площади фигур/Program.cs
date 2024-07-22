@@ -12,14 +12,15 @@ namespace Расчет_площади_фигур
         {
             while (true)
             {
-                Console.WriteLine("Выберите фигуру:");
-                Console.WriteLine("1. Круг");
-                Console.WriteLine("2. Квадрат");
+                Console.WriteLine("Добро пожаловать в коалиционный калькулятор228 ежжи эщкеря!");
+                Console.WriteLine("Расчёт для разных фигур на выбор:");
+                Console.WriteLine("1. Круг\n2. Квадрат\n3. Треугольник");
+                Console.Write("Выберите фигуру: ");
                 switch (int.Parse(Console.ReadLine()))
                 {
                     case 1:
                         {
-                            Console.WriteLine("Введите радиус");
+                            Console.Write("Введите радиус: ");
                             double R = int.Parse(Console.ReadLine());
                             double S = Math.PI * Math.Pow(2, R);
                             Console.WriteLine("Площадь круга равна: " + S);
@@ -27,17 +28,27 @@ namespace Расчет_площади_фигур
                         }
                     case 2:
                         {
-                            Console.WriteLine("Введите длину стороны квадрата: ");
-                            double a= Convert.ToDouble(Console.ReadLine()); 
+                            Console.Write("Введите длину стороны квадрата: ");
+                            double a = double.Parse(Console.ReadLine()); 
                             double S = a * a; 
                             Console.WriteLine("Площадь квадрата: " + S);
+                            break;
+                        }
+                    case 3:
+                        {
+                            Console.Write("Введите длину стороны: ");
+                            double a = double.Parse(Console.ReadLine());
+                            Console.Write("Введите длину высоты: ");
+                            double h = double.Parse(Console.ReadLine());
+                            double S = a * h / 2;
+                            Console.WriteLine($"Площадь треугольника: {S}");
                             break;
                         }
                     default:
                         Console.WriteLine("Неизвестный выбор");
                         break;
                 }
-                Console.WriteLine("Еще раз Y/N");
+                Console.Write("Еще раз Y/N: ");
                 string ans = Console.ReadLine();
                 if ((ans == "N") || (ans == "n")) { break; }
             }

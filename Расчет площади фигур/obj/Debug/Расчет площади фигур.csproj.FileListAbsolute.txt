@@ -5,3 +5,11 @@ C:\Users\79610\Desktop\Расчет площади фигур\Расчет пл�
 C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.csproj.CoreCompileInputs.cache
 C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.exe
 C:\Users\79610\Desktop\Расчет площади фигур\Расчет площади фигур\obj\Debug\Расчет площади фигур.pdb
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\bin\Debug\Расчет площади фигур.exe.config
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\bin\Debug\Расчет площади фигур.exe
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\bin\Debug\Расчет площади фигур.pdb
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\obj\Debug\Расчет площади фигур.csproj.AssemblyReference.cache
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\obj\Debug\Расчет площади фигур.csproj.SuggestedBindingRedirects.cache
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\obj\Debug\Расчет площади фигур.csproj.CoreCompileInputs.cache
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\obj\Debug\Расчет площади фигур.exe
+E:\GitPraktika6\Coalition-repository\Расчет площади фигур\obj\Debug\Расчет площади фигур.pdb
