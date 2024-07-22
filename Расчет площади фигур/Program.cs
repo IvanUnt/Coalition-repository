@@ -14,6 +14,7 @@ namespace Расчет_площади_фигур
             {
                 Console.WriteLine("Выберите фигуру:");
                 Console.WriteLine("1. Круг");
+                Console.WriteLine("2. Квадрат");
                 switch (int.Parse(Console.ReadLine()))
                 {
                     case 1:
@@ -22,6 +23,14 @@ namespace Расчет_площади_фигур
                             double R = int.Parse(Console.ReadLine());
                             double S = Math.PI * Math.Pow(2, R);
                             Console.WriteLine("Площадь круга равна: " + S);
+                            break;
+                        }
+                    case 2:
+                        {
+                            Console.WriteLine("Введите длину стороны квадрата: ");
+                            double a= Convert.ToDouble(Console.ReadLine()); 
+                            double S = a * a; 
+                            Console.WriteLine("Площадь квадрата: " + S);
                             break;
                         }
                     default:
